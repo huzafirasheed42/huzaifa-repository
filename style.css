@@ -1,0 +1,73 @@
+body {
+    background-color: #2b2e3b;
+    font-family: Arial, sans-serif;
+}
+
+.hero-section {
+    background-color: #2f3242;
+    min-height: 80vh;
+}
+
+.hero-name {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.yellow-line {
+    width: 60px;
+    height: 4px;
+    background-color: #f4c430;
+    margin-top: 10px;
+}
+
+.hero-text {
+    font-size: 14px;
+    color: #cccccc;
+}
+
+.hero-img {
+    width: 220px;
+    border-radius: 50%;
+}
+
+.show-more {
+    color: #f4c430;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.social-icons i {
+    margin: 0 8px;
+    background: #3a3d4d;
+    padding: 8px;
+    border-radius: 50%;
+    font-size: 12px;
+}
+
+.logo-bar {
+    background-color: #262938;
+    color: #9fa3b0;
+    font-weight: bold;
+}
+
+.services-section h2 {
+    color: white;
+}
+
+.services-section p {
+    font-size: 14px;
+}
+
+.stats span {
+    display: block;
+    color: #f4c430;
+    margin-bottom: 6px;
+}
+
+.service-card {
+    background-color: #33364a;
+    padding: 15px;
+    margin-bottom: 15px;
+    color: white;
+    border-radius: 6px;
+}
